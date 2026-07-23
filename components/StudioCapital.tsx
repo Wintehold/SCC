@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 import {useMemo,useState} from "react";
 import {motion,AnimatePresence} from "framer-motion";
 import {ArrowRight,BarChart3,BedDouble,Building2,CalendarDays,Check,ChevronDown,ChevronLeft,ChevronRight,Home,KeyRound,MapPin,Menu,MessageCircle,ParkingCircle,Search,Sparkles,Star,TrendingUp,Users,Wifi,X} from "lucide-react";

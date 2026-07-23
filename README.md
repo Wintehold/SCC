@@ -1,4 +1,4 @@
-﻿# Studio Capital — Démonstration premium
+# Studio Capital — Démonstration premium
 
 Site Front-End Next.js / React / TypeScript construit d’après le cahier des charges Studio Capital.
 
